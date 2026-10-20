@@ -23,3 +23,5 @@ The next step is to keep developing the core experience and experiment with how 
 Audio Breach is still a work in progress, but the direction is becoming clearer: a game where paying attention matters, and where even the smallest detail can make you question what is happening.
 
 **Sometimes, the most unsettling thing is noticing that something is different.**
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/444eab4c-da47-40a1-83ba-6974138aabd2" />
